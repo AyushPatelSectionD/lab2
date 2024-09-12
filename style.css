@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(99, 140, 151);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 25px;
+  }
+
+  header {
+
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ccc ;
+  }
+
+nav  {
+    background-color: rgb(186, 186, 186);
+text-align: center;
+padding: 10px;
+}
+main {
+padding:20px;
+background-color: aqua;
+border-radius: 9px;
+box-shadow: 5px 15px;
+
+footer {
+    background-color: firebrick;
+    padding: 40px;
+    text-align: center;
+    border-top: 2px solid #ccc;
+    bottom: 0;
+}
+}
+
+  div {
+    width: 300px;
+    border: 15px solid rgb(131, 131, 131);
+    padding: 50px;
+    margin: 20px;
+  }
